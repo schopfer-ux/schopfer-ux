@@ -6,22 +6,40 @@ Welcome to my GitHub profile! I'm **Sree Teja**, a **Fullstack Developer** with 
 
 ### 🚀 Skills & Technologies
 
-#### Frontend:
-- **React.js** | **HTML5** | **CSS3** | **JavaScript** | **Redux** | **React Router**
+#### Frontend Development:
+- **React.js** | **JavaScript (ES6+)** | **HTML5** | **CSS3** | **Redux** | **React Router**
+  - Building modern, interactive user interfaces with **React.js** and ensuring smooth user experiences.
+  - Skilled in managing state using **Redux** and handling dynamic routing with **React Router**.
+  - Proficient in crafting responsive designs using **CSS3** and **HTML5**.
 
-#### Backend:
+#### Backend Development:
 - **Node.js** | **Java** | **Express.js**
+  - Expertise in developing scalable backend applications with **Node.js** and **Java**.
+  - Comfortable building RESTful APIs and handling server-side logic with **Express.js**.
+  - Ensuring optimal performance and security in backend development.
 
-#### Databases:
+#### Database Management:
 - **MongoDB** | **MySQL** | **Mongoose** | **Sequelize**
+  - Strong experience in both **NoSQL** and **SQL** databases, including **MongoDB** and **MySQL**.
+  - Proficient in using **Mongoose** and **Sequelize** to interact with databases, ensuring efficient and reliable data management.
 
 #### Cloud & DevOps:
-- **AWS** | **Docker** | **Git**
+- **AWS (EC2, S3, Lambda, RDS)** | **Docker** | **Git**
+  - Hands-on experience with **AWS** for cloud computing, including services like **EC2**, **S3**, **Lambda**, and **RDS**.
+  - Knowledgeable in deploying and managing containers using **Docker** for a seamless development and production environment.
+  - Experienced in version control and collaboration using **Git** and GitHub.
 
 ---
 
 ### 🛠️ Tools & Libraries
+
 - **Axios** | **JWT Authentication** | **Socket.io** | **Material UI** | **Tailwind CSS**
+  - Experienced in using **Axios** for efficient API requests and **JWT Authentication** to ensure secure user sessions.
+  - Familiar with **Socket.io** for real-time communication and building interactive applications.
+  - Proficient in creating sleek user interfaces with **Material UI** and custom styles using **Tailwind CSS**.
+
+---
+
 
 ---
 
